@@ -28,4 +28,5 @@ I'm hukurouo, Fullstack Web Developer :D
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-87cefa?style=flat-square&logo=docker&logoColor=white" />
  <img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
  <img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-ff8c00?style=flat-square&logo=amazonaws&logoColor=white" />
+ <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffd700?style=flat-square&logo=firebase&logoColor=white" />
 </p>
