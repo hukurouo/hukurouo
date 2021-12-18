@@ -1,13 +1,12 @@
-## Hi there 👋
+## Hi, I'm hukurouo 🦉 a Web Developer :)
 
-I'm hukurouo, Fullstack Web Developer :D
-
-
-  <!-- Like のバッジ -->
-  <a href="https://zenn.dev/hukurouo">
-    <img src="https://zenn.badge.nikaera.com/s/hukurouo/likes?style=flat-square" alt="hukurouo likes" />
-  </a>
-<a href="https://atcoder.jp/users/hukurouo" target="_blank" title="hukurouo"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhukurouo&style=flat-square" /></a>
+### Navigation
+- [Profile](https://hukurouo.com)
+- [Blog](https://hukurouo.com/articles)
+- [Tech Blog](https://tech.hukurouo.com/)
+- [Tumbler](https://hukurouo.tumblr.com/)
+- [AtCoder](https://atcoder.jp/users/hukurouo)
+- [Zenn](https://zenn.dev/hukurouo)
 
 
 ### Some Tools I Use
