@@ -20,7 +20,7 @@ I'm hukurouo, Fullstack Web Developer :D
 
 <p>
  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-a52a2a?style=flat-square&logo=ruby&logoColor=white" />
- <img alt="RubyOnRails" src="https://img.shields.io/badge/-Rails-ff4500?style=flat-square&logo=rubyonrails&logoColor=white" />
+ <img alt="RubyOnRails" src="https://img.shields.io/badge/-Rails-cd5e3c?style=flat-square&logo=rubyonrails&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-333631?style=flat-square&logo=next.js&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4682b4?style=flat-square&logo=mysql&logoColor=white" />
