@@ -22,11 +22,11 @@ I'm hukurouo, Fullstack Web Developer :D
  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-a52a2a?style=flat-square&logo=ruby&logoColor=white" />
  <img alt="RubyOnRails" src="https://img.shields.io/badge/-Rails-ff4500?style=flat-square&logo=rubyonrails&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
- <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+ <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-333631?style=flat-square&logo=next.js&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4682b4?style=flat-square&logo=mysql&logoColor=white" />
  <img alt="Redis" src="https://img.shields.io/badge/-Redis-cd5c5c?style=flat-square&logo=redis&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-87cefa?style=flat-square&logo=docker&logoColor=white" />
- <img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
+ <img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub Actions-696969?style=flat-square&logo=githubactions&logoColor=white" />
  <img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-ff8c00?style=flat-square&logo=amazonaws&logoColor=white" />
  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffd700?style=flat-square&logo=firebase&logoColor=white" />
 </p>
