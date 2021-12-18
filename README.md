@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm hukurouo, Fullstack Web Developer 
+I'm hukurouo, Fullstack Web Developer :D
 
  <a href="http://twitter.com/hukurouo_code">
     <img height="20" src="https://img.shields.io/twitter/follow/hukurouo_code?label=Twitter&logo=twitter&style=flat-square" />
@@ -16,7 +16,7 @@ I'm hukurouo, Fullstack Web Developer
   </a>
 <a href="https://atcoder.jp/users/hukurouo" target="_blank" title="hukurouo"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhukurouo&style=flat-square" /></a>
 
-## Some Tools I Use
+### Some Tools I Use
 
 <p>
  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-a52a2a?style=flat-square&logo=ruby&logoColor=white" />
