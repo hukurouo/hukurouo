@@ -1,4 +1,4 @@
-## Hi, I'm hukurouo 🦉 a Web Developer :)
+## Hi, I'm hukurouo 🦉 a Fullstack Web Developer :)
 
 ### Navigation
 - [Blog](https://hukurouo.com/articles)
