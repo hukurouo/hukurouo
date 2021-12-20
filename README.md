@@ -1,20 +1,11 @@
 ## Hi, I'm hukurouo 🦉 a Web Developer :)
 
 ### Navigation
-- [Blog](https://hukurouo.com/articles)
-- [Tech Blog](https://tech.hukurouo.com/)
-- [Tumbler](https://hukurouo.tumblr.com/)
-- [AtCoder](https://atcoder.jp/users/hukurouo)
-- [Zenn](https://zenn.dev/hukurouo)
+[Blog](https://hukurouo.com/articles) -  [Tech Blog](https://tech.hukurouo.com/) - [Tumbler](https://hukurouo.tumblr.com/) - [AtCoder](https://atcoder.jp/users/hukurouo) - [Zenn](https://zenn.dev/hukurouo)
 
 ### Works
 
-- [iineum](https://iineum.hukurouo.com/)
-- [king halos](https://king-halo.hukurouo.com/)
-- [books card maker](https://books-card-maker.web.app/)
-- [10tuku](https://10tuku.hukurouo.com/)
-- [Game Of Life Mini](https://gameoflife.hukurouo.com/)
-- [space clock](https://space-clock.hukurouo.com/)
+[iineum](https://iineum.hukurouo.com/) - [king halos](https://king-halo.hukurouo.com/) - [books card maker](https://books-card-maker.web.app/) - [10tuku](https://10tuku.hukurouo.com/) - [Game Of Life Mini](https://gameoflife.hukurouo.com/) - [space clock](https://space-clock.hukurouo.com/)
 
 ### Some Tools I Use
 
