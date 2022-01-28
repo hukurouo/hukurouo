@@ -13,7 +13,7 @@ created_at: 2022-01-29
 
 ### 言語
 
-Ruby, TypeScript
+`Ruby`, `TypeScript`
 
 ### フレームワーク
 
