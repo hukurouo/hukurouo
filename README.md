@@ -24,6 +24,6 @@
 
 ### Contacts
 
-<a href="https://twitter.com/hukurouo_code"><img src="https://img.shields.io/badge/-@hukurouo_code-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/n1sym"><img src="https://img.shields.io/badge/-@n1sym-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a>
 <a href="mailto:owlbook248@gmail.com"><img src="https://img.shields.io/badge/-owlbook248@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:owlbook248@gmail.com" /></a>
 
